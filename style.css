@@ -1,0 +1,34 @@
+
+body{
+    background-image: url("1.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* background */
+}
+h4{
+    color: black;
+}
+a{
+    color: black;
+    margin-left: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline
+}
+#logo{
+    font-size: 30px;
+    margin-right: 500px;
+}
+.navbar{
+    margin-bottom: 200px;
+}
+h1{
+    font-size:50px;
+    color: blue;
+}
+h3{
+    font: size 30px;
+
+}
